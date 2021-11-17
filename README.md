@@ -1,3 +1,3 @@
 # Smartphone-Driven-Robot
 
-Building a car using electronic components (distance sensor, Bluetooth component, LCD screen), moving the car using Bluetooth communication, measuring the distance between an object and a car and displaying the distance on an LCD screen. The project was implemented in C language using Arduino.
+The project was written in C using Arduino and including building a car using electronic components (distance sensor, Bluetooth component and LCD screen). The car is controlled via Bluetooth communication while the distance between the car and different objects is displayed on LCD screen.
